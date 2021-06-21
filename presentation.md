@@ -7,7 +7,3 @@
 <h1>
   <a href="https://electron-presentation.netlify.app/" target="_blank">Presentation deploy link</a>
 </h1>
-
-[Task link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md){:target="_blank"}
-[Youtube link](https://youtu.be/_o_JWPMpvhI){:target="_blank"}
-[Presentation deploy link](https://electron-presentation.netlify.app/){:target="_blank"}
